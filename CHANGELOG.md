@@ -1,5 +1,12 @@
 # Changelog
-
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/20">Version 0.9.18</a> - 03/08/2019</i><br>
+&bull; New: wildcards can be used in actions to identify resources (edit icon on text action)<br>
+&bull; New: shortcuts to show/hide Navigation Bar<br>
+&bull; New: option to show navbar when current app is in blacklist<br>
+&bull; Fixed: rare exception while updating menu view<br>
+&bull; Fixed: UbikiTouch enables itself while switching rotation<br>
+&bull; Various bug fixes and improvements<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/19">Version 0.9.17</a> - 03/08/2019</i><br>
 &bull; Fixed: height of bottom menu was not correctly calculated after toggling navbar<br>
 <br>
