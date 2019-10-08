@@ -1,4 +1,13 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/21?closed=1">Version 1.0.0</a> - 08/10/2019</i><br>
+&bull; Improved stability and performances<br>
+&bull; New: option to vibrate on short press<br>
+&bull; New: option to show unselected waves in Wave Ui<br>
+&bull; New: option to choose type of action : click, long click, swipe top, swipe bottom, swipe left, swipe right<br>
+&bull; New: option to record a swipe<br>
+&bull; New: option to edit actions to change type (click, long click, swipe), duration or coordinates<br>
+&bull; New: option to copy action as child or sibling<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/20?closed=1">Version 0.9.18</a> - 05/09/2019</i><br>
 &bull; New: wildcards can be used in actions to identify resources (edit icon on text action)<br>
 &bull; New: shortcuts to show/hide Navigation Bar<br>
