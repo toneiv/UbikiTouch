@@ -1,4 +1,14 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/22?closed=1">Version 1.2.0</a> - 31/10/2019</i><br>
+&bull; New: detection of clicks on the trigger zone and propagation to the elements below
+&bull; New: option to block physical buttons
+&bull; New: configurable distance for the visibility of the secondary action
+&bull; New: configurable waiting time for the visibility of the secondary action
+&bull; New: add search in preferences
+&bull; New: ui redesign
+&bull; Updated ui with latest Material specification
+&bull; Fixed: lowered auto-trigger threshold
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/21?closed=1">Version 1.0.0</a> - 08/10/2019</i><br>
 &bull; Improved stability and performances<br>
 &bull; New: option to vibrate on short press<br>
