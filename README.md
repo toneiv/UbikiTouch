@@ -7,14 +7,6 @@ UbikiTouch allow you to improve all your applications by swiping the edges of yo
 
 See full presentation on the [**Play Store**](https://play.google.com/store/apps/details?id=eu.toneiv.ubktouch)
 
-# Navigation bar troubleshoot
-If you've uninstall UbikiTouch and that you have forgotten to restore the navigation bar before, you can always run this ADB command:
-adb shell wm overscan 0,0,0,0<br>
-
-# Feedback
-* UbikiTouch Group on [**Telegram**](https://t.me/joinchat/InrYuhYDC-ZjVWnyAHPPrA)
-* [**XDA Thread**](https://forum.xda-developers.com/android/apps-games/app-ubikitouch-gestures-automation-app-t3930661)
-
 # Issues
 Here you can view existing feature requests and bug reports or contribute with your ideas. Make sure to read the rules below before submitting new issues.
 
@@ -27,3 +19,11 @@ Here you can view existing feature requests and bug reports or contribute with y
 Search through the [**existing issues**](https://github.com/toneiv/UbikiTouch/issues) to avoid creating duplicates.
 If the issue already exists, add a +1 to show your interest. You can also click on the Subscribe button to get notifications via e-mail.
 If you don't have GitHub account and don't want to create one you can also send your feature requests and bug reports via [**email**](mailto:toneiv.apps@gmail.com).
+
+# Feedback
+* UbikiTouch Group on [**Telegram**](https://t.me/joinchat/InrYuhYDC-ZjVWnyAHPPrA)
+* [**XDA Thread**](https://forum.xda-developers.com/android/apps-games/app-ubikitouch-gestures-automation-app-t3930661)
+
+# Navigation bar troubleshoot
+If you've uninstall UbikiTouch and that you have forgotten to restore the navigation bar before, you can always run this ADB command:
+adb shell wm overscan 0,0,0,0<br>
