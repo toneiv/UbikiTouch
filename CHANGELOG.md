@@ -1,4 +1,32 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/23?closed=1">Version 1.2.6</a> - 08/01/2020</i><br>
+&bull; Fixed: fixed an error preventing to export the bin file of the actions
+&bull; Fixed: the triggers were sometimes inaccessible in immersive mode with the hidden navbar, now all triggers are available when using applications such as YouTube, Netflix, …
+&bull; Fixed: under rare conditions, the navigation bar could be erroneously hidden when the screen is switched on
+&bull; Fixed: under rare conditions, the menu icons were not correctly removed when the screen was rotated
+&bull; Fixed: pulse animations on the settings screen will disappear after a few days
+&bull; Various bug fixes and improvements
+<br>
+<i>Version 1.2.5 - 12/12/2019</i><br>
+&bull; Fixed: rare crash on tuto screens<
+&bull; Fixed: on some smartphone models the application would not restart after a reboot
+&bull; Various bug fixes and improvements
+<br>
+<i>Version 1.2.4 - 04/12/2019</i><br>
+&bull; New: restore option in blacklisted app management
+&bull; New: Persian/Farsi translation thanks to Amin Shabanpour
+&bull; Fixed: rare exception while switching foreground app
+<br>
+<i>Version 1.2.3 - 06/11/2019</i><br>
+&bull; Fixed: crash when opening settings for bottom curve size
+&bull; New: improvement in blacklisted app management
+<br>
+<i>Version 1.2.2 - 01/11/2019</i><br>
+&bull; Fixed: Auto-triggering left and right wasn\'t properly disabled
+<br>
+<i>Version 1.2.1 - 31/10/2019</i><br>
+&bull; Fixed: crash during fresh installation
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/22?closed=1">Version 1.2.0</a> - 31/10/2019</i><br>
 &bull; New: detection of clicks on the trigger zone and propagation to the elements below
 &bull; New: option to block physical buttons
