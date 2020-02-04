@@ -1,4 +1,16 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/24?closed=1">Version 1.3.0</a> - 04/02/2020</i><br>
+&bull; Fixed: with some devices, the application did not start at boot time even though it was configured for
+&bull; Fixed: with some devices, the service was unexpectedly killed when leaving the application
+&bull; Fixed: under certain conditions, the application hid the navigation bar when the device woke up while the current application was blacklisted
+&bull; Fixed: broken shortcuts icons
+&bull; Fixed: actions type (up, down, left, right, click...) wasn\'t properly ordered in treeview display
+&bull; Fixed: stronger tile management
+&bull; Fixed: stronger custom actions list management in settings
+&bull; New: 2 shortcuts, start and stop UbikiTouch
+&bull; New: Root implementation for managing permissions
+&bull; Various bug fixes and improvements
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/23?closed=1">Version 1.2.6</a> - 08/01/2020</i><br>
 &bull; Fixed: fixed an error preventing to export the bin file of the actions
 &bull; Fixed: the triggers were sometimes inaccessible in immersive mode with the hidden navbar, now all triggers are available when using applications such as YouTube, Netflix, …
