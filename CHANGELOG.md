@@ -1,4 +1,10 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/25?closed=1">Version 1.3.1</a> - 12/02/2020</i><br>
+&bull; Fixed: incorrectly displayed message "this feature is not supported" for some actions
+&bull; Fixed: app unexpectedly getting killed in the background with some Samsung devices
+&bull; Fixed: stronger tile management
+&bull; New: 4 actions instead of 3 configurable in menus
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/24?closed=1">Version 1.3.0</a> - 04/02/2020</i><br>
 &bull; Fixed: with some devices, the application did not start at boot time even though it was configured for
 &bull; Fixed: with some devices, the service was unexpectedly killed when leaving the application
