@@ -1,59 +1,59 @@
 # Changelog
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/25?closed=1">Version 1.3.1</a> - 12/02/2020</i><br>
-&bull; Fixed: incorrectly displayed message "this feature is not supported" for some actions
-&bull; Fixed: app unexpectedly getting killed in the background with some Samsung devices
-&bull; Fixed: stronger tile management
-&bull; New: 4 actions instead of 3 configurable in menus
+&bull; Fixed: incorrectly displayed message "this feature is not supported" for some actions<br>
+&bull; Fixed: app unexpectedly getting killed in the background with some Samsung devices<br>
+&bull; Fixed: stronger tile management<br>
+&bull; New: 4 actions instead of 3 configurable in menus<br>
 <br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/24?closed=1">Version 1.3.0</a> - 04/02/2020</i><br>
-&bull; Fixed: with some devices, the application did not start at boot time even though it was configured for
-&bull; Fixed: with some devices, the service was unexpectedly killed when leaving the application
-&bull; Fixed: under certain conditions, the application hid the navigation bar when the device woke up while the current application was blacklisted
-&bull; Fixed: broken shortcuts icons
-&bull; Fixed: actions type (up, down, left, right, click...) wasn\'t properly ordered in treeview display
-&bull; Fixed: stronger tile management
-&bull; Fixed: stronger custom actions list management in settings
-&bull; New: 2 shortcuts, start and stop UbikiTouch
-&bull; New: Root implementation for managing permissions
-&bull; Various bug fixes and improvements
+&bull; Fixed: with some devices, the application did not start at boot time even though it was configured for<br>
+&bull; Fixed: with some devices, the service was unexpectedly killed when leaving the application<br>
+&bull; Fixed: under certain conditions, the application hid the navigation bar when the device woke up while the current application was blacklisted<br>
+&bull; Fixed: broken shortcuts icons<br>
+&bull; Fixed: actions type (up, down, left, right, click...) wasn\'t properly ordered in treeview display<br>
+&bull; Fixed: stronger tile management<br>
+&bull; Fixed: stronger custom actions list management in settings<br>
+&bull; New: 2 shortcuts, start and stop UbikiTouch<br>
+&bull; New: Root implementation for managing permissions<br>
+&bull; Various bug fixes and improvements<br>
 <br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/23?closed=1">Version 1.2.6</a> - 08/01/2020</i><br>
-&bull; Fixed: fixed an error preventing to export the bin file of the actions
-&bull; Fixed: the triggers were sometimes inaccessible in immersive mode with the hidden navbar, now all triggers are available when using applications such as YouTube, Netflix, …
-&bull; Fixed: under rare conditions, the navigation bar could be erroneously hidden when the screen is switched on
-&bull; Fixed: under rare conditions, the menu icons were not correctly removed when the screen was rotated
-&bull; Fixed: pulse animations on the settings screen will disappear after a few days
-&bull; Various bug fixes and improvements
+&bull; Fixed: fixed an error preventing to export the bin file of the actions<br>
+&bull; Fixed: the triggers were sometimes inaccessible in immersive mode with the hidden navbar, now all triggers are available when using applications such as YouTube, Netflix, …<br>
+&bull; Fixed: under rare conditions, the navigation bar could be erroneously hidden when the screen is switched on<br>
+&bull; Fixed: under rare conditions, the menu icons were not correctly removed when the screen was rotated<br>
+&bull; Fixed: pulse animations on the settings screen will disappear after a few days<br>
+&bull; Various bug fixes and improvements<br>
 <br>
 <i>Version 1.2.5 - 12/12/2019</i><br>
-&bull; Fixed: rare crash on tuto screens<
-&bull; Fixed: on some smartphone models the application would not restart after a reboot
-&bull; Various bug fixes and improvements
+&bull; Fixed: rare crash on tuto screens<br>
+&bull; Fixed: on some smartphone models the application would not restart after a reboot<br>
+&bull; Various bug fixes and improvements<br>
 <br>
 <i>Version 1.2.4 - 04/12/2019</i><br>
-&bull; New: restore option in blacklisted app management
-&bull; New: Persian/Farsi translation thanks to Amin Shabanpour
-&bull; Fixed: rare exception while switching foreground app
+&bull; New: restore option in blacklisted app management<br>
+&bull; New: Persian/Farsi translation thanks to Amin Shabanpour<br>
+&bull; Fixed: rare exception while switching foreground app<br>
 <br>
 <i>Version 1.2.3 - 06/11/2019</i><br>
-&bull; Fixed: crash when opening settings for bottom curve size
-&bull; New: improvement in blacklisted app management
+&bull; Fixed: crash when opening settings for bottom curve size<br>
+&bull; New: improvement in blacklisted app management<br>
 <br>
 <i>Version 1.2.2 - 01/11/2019</i><br>
-&bull; Fixed: Auto-triggering left and right wasn\'t properly disabled
+&bull; Fixed: Auto-triggering left and right wasn\'t properly disabled<br>
 <br>
 <i>Version 1.2.1 - 31/10/2019</i><br>
-&bull; Fixed: crash during fresh installation
+&bull; Fixed: crash during fresh installation<br>
 <br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/22?closed=1">Version 1.2.0</a> - 31/10/2019</i><br>
-&bull; New: detection of clicks on the trigger zone and propagation to the elements below
-&bull; New: option to block physical buttons
-&bull; New: configurable distance for the visibility of the secondary action
-&bull; New: configurable waiting time for the visibility of the secondary action
-&bull; New: add search in preferences
-&bull; New: ui redesign
-&bull; Updated ui with latest Material specification
-&bull; Fixed: lowered auto-trigger threshold
+&bull; New: detection of clicks on the trigger zone and propagation to the elements below<br>
+&bull; New: option to block physical buttons<br>
+&bull; New: configurable distance for the visibility of the secondary action<br>
+&bull; New: configurable waiting time for the visibility of the secondary action<br>
+&bull; New: add search in preferences<br>
+&bull; New: ui redesign<br>
+&bull; Updated ui with latest Material specification<br>
+&bull; Fixed: lowered auto-trigger threshold<br>
 <br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/21?closed=1">Version 1.0.0</a> - 08/10/2019</i><br>
 &bull; Improved stability and performances<br>
