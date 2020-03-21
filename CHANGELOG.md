@@ -1,4 +1,12 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/26?closed=1">Version 1.3.3 (15121)</a> - 12/02/2020</i><br>
+&bull; Fixed: launch action based on distance functionality was broken for some configurations<br>
+&bull; Fixed: improved ui to enable/disable some permissions<br>
+&bull; Fixed: improved ui when using slider<br>
+&bull; Fixed: UbikiTouch now work in Android Setting<br>
+&bull; Fixed: media actions for Generic Music Player fixed, they work now for all players<br>
+&bull; Fixed: inconsistency in min value for drag tension in animation settings<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/25?closed=1">Version 1.3.1 (15121)</a> - 12/02/2020</i><br>
 &bull; Fixed: incorrectly displayed message "this feature is not supported" for some actions<br>
 &bull; Fixed: app unexpectedly getting killed in the background with some Samsung devices<br>
