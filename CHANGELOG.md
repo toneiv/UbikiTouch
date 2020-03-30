@@ -1,5 +1,13 @@
 # Changelog
-<i><a href="https://github.com/toneiv/UbikiTouch/milestone/26?closed=1">Version 1.3.3 (15121)</a> - 12/02/2020</i><br>
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/28?closed=1">Version 1.3.5 (15945)</a> - 30/03/2020</i><br>
+&bull; Fixed: under certain conditions, the Pie menu was not correctly released after use<br>
+&bull; Various bug fixes and improvements<br>
+<br>
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/27?closed=1">Version 1.3.4 (15842)</a> - 24/03/2020</i><br>
+&bull; New: online FAQ available in Help Screen<br>
+&bull; Various bug fixes and improvements<br>
+<br>
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/26?closed=1">Version 1.3.3 (15121)</a> - 21/03/2020</i><br>
 &bull; Fixed: launch action based on distance functionality was broken for some configurations<br>
 &bull; Fixed: improved ui to enable/disable some permissions<br>
 &bull; Fixed: improved ui when using slider<br>
