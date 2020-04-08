@@ -1,4 +1,11 @@
 # Changelog
+<i>Version 1.3.7 (16096) - 08/04/2020</i><br>
+&bull; New: improvement of the fluidity of the menus<br>
+&bull; New: improved reliability in the execution of custom actions<br>
+<br>
+<i>Version 1.3.6 (15993) - 04/04/2020</i><br>
+&bull; Various bug fixes and improvements<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/28?closed=1">Version 1.3.5 (15945)</a> - 30/03/2020</i><br>
 &bull; Fixed: under certain conditions, the Pie menu was not correctly released after use<br>
 &bull; Various bug fixes and improvements<br>
