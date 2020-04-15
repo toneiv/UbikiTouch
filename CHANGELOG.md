@@ -1,7 +1,7 @@
 # Changelog
-<i>Version 1.3.7 (16096) - 08/04/2020</i><br>
-&bull; New: improvement of the fluidity of the menus<br>
-&bull; New: improved reliability in the execution of custom actions<br>
+<i>Version 1.4.0 (16407) - 15/04/2020</i><br>
+&bull; New: action "Remote cursor"
+&bull; Fixed: bug in tutorial<br>
 <br>
 <i>Version 1.3.6 (15993) - 04/04/2020</i><br>
 &bull; Various bug fixes and improvements<br>
