@@ -1,6 +1,6 @@
 # Changelog
 <i>Version 1.4.0 (16407) - 15/04/2020</i><br>
-&bull; New: action "Remote cursor"
+&bull; New: action "Remote cursor"<br>
 &bull; Fixed: bug in tutorial<br>
 <br>
 <i>Version 1.3.6 (15993) - 04/04/2020</i><br>
