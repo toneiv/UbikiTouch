@@ -1,4 +1,12 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/29?closed=1">Version 1.4.1 (16525)</a> - 21/04/2020</i><br>
+&bull; New: adjustable cursor size<br>
+&bull; New: visualization of triggers while modifying their appearance<br>
+&bull; New: option to immediately trigger the second action when the waiting time is reached<br>
+&bull; New: improved Italian translation thanks to Andrea Bruzzesi &lt;andrea.bruzzesi@gmail.com&gt;<br>
+&bull; Fixed: bug with remote cursor & auto-trigger<br>
+&bull; Fixed: bug with pie ui and cursor behaviour<br>
+<br>
 <i>Version 1.4.0 (16407) - 15/04/2020</i><br>
 &bull; New: action "Remote cursor"<br>
 &bull; Fixed: bug in tutorial<br>
