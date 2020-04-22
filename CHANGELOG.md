@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.4.2 (16543) - 22/04/2020</i><br>
+&bull; Fixed: second action swipe and hold was not working correctly<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/29?closed=1">Version 1.4.1 (16525)</a> - 21/04/2020</i><br>
 &bull; New: adjustable cursor size<br>
 &bull; New: visualization of triggers while modifying their appearance<br>
