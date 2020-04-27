@@ -1,4 +1,15 @@
 # Changelog
+<i>Version 1.4.4 (16797) - 27/04/2020</i><br>
+&bull; New: improved movement of the remote cursor to reach the sides more easily<br>
+&bull; New: ability to make long clicks with remote cursor<br>
+&bull; New: ability to make drag with remote cursor<br>
+&bull; New: ability to cancel long click or drag by clicking with another finger outside of the tracker for remote cursor<br>
+&bull; New: ability to close remote cursor by double clicking tracker<br>
+&bull; New: ability to choose color for click and long click for remote cursor<br>
+&bull; New: round corner for triggers<br>
+&bull; New: improved management of icons color and transparency in menus<br>
+&bull; Fixed: rare crash while creating db<br>
+<br>
 <i>Version 1.4.2 (16543) - 22/04/2020</i><br>
 &bull; Fixed: second action swipe and hold was not working correctly<br>
 <br>
