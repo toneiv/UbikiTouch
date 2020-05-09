@@ -1,4 +1,9 @@
 # Changelog
+<i>Version 1.4.5 (17298) - 09/05/2020</i><br>
+&bull; New: improved management of accessibility permissions activation<br>
+&bull; Fixed: edge transparency on Android 5.0<br>
+&bull; Various bug fixes and improvements<br>
+<br>
 <i>Version 1.4.4 (16797) - 27/04/2020</i><br>
 &bull; New: improved movement of the remote cursor to reach the sides more easily<br>
 &bull; New: ability to make long clicks with remote cursor<br>
