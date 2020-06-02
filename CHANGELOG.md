@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.4.7 (20412) - 02/06/2020</i><br>
+&bull; New: cursor is now available in free version with limited features<br>
+&bull; Fixed: add Google Pay exception<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/30?closed=1">Version 1.4.6 (19740)</a> - 26/05/2020</i><br>
 &bull; New: 3s countdown in the tracker before disappearance<br>
 &bull; New: trail effect on cursor<br>
@@ -7,6 +11,7 @@
 &bull; New: tips and news to showcase features of the app<br>
 &bull; Fixed: remote cursor set as default action was not working<br>
 &bull; Fixed: improved management of long press in cursor<br>
+<br>
 <i>Version 1.4.5 (17298) - 09/05/2020</i><br>
 &bull; New: improved management of accessibility permissions activation<br>
 &bull; Fixed: edge transparency on Android 5.0<br>
