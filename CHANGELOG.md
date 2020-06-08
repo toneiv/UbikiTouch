@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.4.8 (20943) - 08/06/2020</i><br>
+&bull; New: cursor compatibility mode to improve its operation with some versions of Android<br>
+&bull; Fixed: the tracker was not correctly drawn when changing dimensions<br>
+<br>
 <i>Version 1.4.7 (20412) - 02/06/2020</i><br>
 &bull; New: cursor is now available in free version with limited features<br>
 &bull; Fixed: add Google Pay exception<br>
