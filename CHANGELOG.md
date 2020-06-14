@@ -1,4 +1,10 @@
 # Changelog
+<i>Version 1.4.9 (22575) - 14/06/2020</i><br>
+&bull; New: improve cursor trail fluidity<br>
+&bull; New: add cursor trail effect<br>
+&bull; New: cursor now available for Android Versions lower than Nougat (24)<br>
+&bull; Fixed: less intrusive popup warning for Huawei devicess<br>
+<br>
 <i>Version 1.4.8 (20943) - 08/06/2020</i><br>
 &bull; New: cursor compatibility mode to improve its operation with some versions of Android<br>
 &bull; Fixed: the tracker was not correctly drawn when changing dimensions<br>
