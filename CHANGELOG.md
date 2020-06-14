@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.4.10 (22617) - 14/06/2020</i><br>
+&bull; Fixed: small bug with cursor trail<br>
+<br>
 <i>Version 1.4.9 (22575) - 14/06/2020</i><br>
 &bull; New: improve cursor trail fluidity<br>
 &bull; New: add cursor trail effect<br>
