@@ -1,4 +1,11 @@
 # Changelog
+<i>Version 1.4.11 (23316) - 18/06/2020</i><br>
+• New: improved cursor drag functionality: ability to perform complex move<br>
+• New: animation when performing drag or move<br>
+• Fixed: cursor will not interact with triggers or tracker while moving<br>
+• Fixed: cursor stopped working unexpectedly with some devices<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.4.10 (22617) - 14/06/2020</i><br>
 &bull; Fixed: small bug with cursor trail<br>
 <br>
