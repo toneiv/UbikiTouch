@@ -1,4 +1,10 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/31?closed=1">Version 1.5.0 (24183)</a> - 23/06/2020</i><br>
+• New: possibility to choose the sensitivity to cursor movement<br>
+• New: possibility to display the menu even if only one submenu is defined<br>
+• New: UbikiTouch is available when Quick Settings is displayed<br>
+• Overall efficiency and fluidity improvement<br>
+<br>
 <i>Version 1.4.11 (23316) - 18/06/2020</i><br>
 • New: improved cursor drag functionality: ability to perform complex move<br>
 • New: animation when performing drag or move<br>
