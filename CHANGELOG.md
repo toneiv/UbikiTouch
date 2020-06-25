@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.5.1 (24204) - 25/06/2020</i><br>
+• Fixed: the cursor did not display correctly in landscape mode<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/31?closed=1">Version 1.5.0 (24183)</a> - 23/06/2020</i><br>
 • New: possibility to choose the sensitivity to cursor movement<br>
 • New: possibility to display the menu even if only one submenu is defined<br>
