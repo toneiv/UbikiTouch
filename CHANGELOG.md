@@ -1,4 +1,12 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/32?closed=1">Version 1.5.2 (24852)</a> - 29/06/2020</i><br>
+• New:  possibility to choose the style for the tracker countdown<br>
+• New:  ability to precisely position the triggers as a percentage of the screen<br>
+• New:  live update of the trigger when changing its settings<br>
+• Fixed: enhanced precision when dragging the cursor<br>
+• Fixed: prevents accidental clicks when dragging the cursor<br>
+• Fixed: menu was not displayed correctly on Android 8.0<br>
+<br>
 <i>Version 1.5.1 (24204) - 25/06/2020</i><br>
 • Fixed: the cursor did not display correctly in landscape mode<br>
 <br>
