@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.5.3 (25377) - 01/07/2020</i><br>
+• New:  min delay for disapperance of cursor set to 200ms<br>
+• New: 2 shortcuts, show cursor left and show cursor right<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/32?closed=1">Version 1.5.2 (24852)</a> - 29/06/2020</i><br>
 • New:  possibility to choose the style for the tracker countdown<br>
 • New:  ability to precisely position the triggers as a percentage of the screen<br>
