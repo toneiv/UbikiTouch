@@ -1,4 +1,13 @@
 # Changelog
+<i><a href="https://github.com/toneiv/UbikiTouch/milestone/33?closed=1">Version 1.6.0 (26244)</a> - 06/07/2020</i><br>
+• New:  ability to duplicate settings from one side to another (see Trigger / Template)<br>
+• New : ability to define action on double click on the tracker<br>
+• New : ability to define action on click outside the tracker<br>
+• New : ability to define action when clicking outside while pressing the tracker<br>
+• New : ability to define a vertical dynamic reference point for the tracker (see Cursor / Vartical reference point)<br>
+• Fixed: the cursor launched with shortcuts did not always reach the side<br>
+• Fixed: the cursor launched with shortcuts wasn\'t set properly on landcape mode<br>
+<br>
 <i>Version 1.5.3 (25377) - 01/07/2020</i><br>
 • New:  min delay for disapperance of cursor set to 200ms<br>
 • New: 2 shortcuts, show cursor left and show cursor right<br>
