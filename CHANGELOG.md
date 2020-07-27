@@ -1,4 +1,15 @@
 # Changelog
+<i>Version 1.7.2 (29148) - 27/07/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
+<i>Version 1.7.1 (29121) - 23/07/2020</i><br>
+• Fixed: curve menu did not disappear completely at rest<br>
+<br>
+<i>Version 1.7.0 (29061) - 21/07/2020</i><br>
+• Enhancement of menus fluidity and response time<br>
+• New:  ability to specify curve shape: follow the touch or static (see Wave/Curve settings / Animation)<br>
+• Various bug fixes and improvements<br>
+<br>
 <i><a href="https://github.com/toneiv/UbikiTouch/milestone/33?closed=1">Version 1.6.0 (26244)</a> - 06/07/2020</i><br>
 • New:  ability to duplicate settings from one side to another (see Trigger / Template)<br>
 • New : ability to define action on double click on the tracker<br>
