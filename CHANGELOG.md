@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.7.3 (29292) - 28/07/2020</i><br>
+• New: ability to remove 250ms delay on click for the cursor (when No Action on Double click is selected)<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.7.2 (29148) - 27/07/2020</i><br>
 • Various bug fixes and improvements<br>
 <br>
