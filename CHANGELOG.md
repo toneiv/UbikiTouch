@@ -1,4 +1,8 @@
 # Changelog
+<i>Version 1.7.5 (30402) - 08/08/2020</i><br>
+• New: improvement in compatibility with future Android 11<br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.7.4 (30210) - 06/08/2020</i><br>
 • New: option to choose size of the cursor<br>
 • New: option to choose shape of the cursor<br>
