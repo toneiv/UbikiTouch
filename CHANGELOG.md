@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.7.6 (30648) - 09/08/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.7.5 (30402) - 08/08/2020</i><br>
 • New: improvement in compatibility with future Android 11<br>
 • Various bug fixes and improvements<br>
