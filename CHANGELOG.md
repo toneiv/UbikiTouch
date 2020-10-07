@@ -1,4 +1,7 @@
 # Changelog
+<i>Version 1.7.13 (32496) - 07/10/2020</i><br>
+• Various bug fixes and improvements<br>
+<br>
 <i>Version 1.7.12 (32493) - 30/09/2020</i><br>
 • New: improvement in compatibility with Android 11<br>
 • Various bug fixes and improvements<br>
