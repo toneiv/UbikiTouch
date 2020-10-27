@@ -1,4 +1,11 @@
 # Changelog
+## 1.7.14 (33312) - 27/10/2020
+* New: option to add a delay before executing a custom action (see Custom Action / Edit / Waiting time before executing action)
+* New: option to hide "UbikiTouch is displaying over other apps" persistent notification (see Misc settings)
+* Fixed: compatibility with latest Google Review API
+* Fixed: error with classic and modern cursor icon in Android 4.4
+* Various bug fixes and improvements
+
 ## 1.7.13 (32496) - 07/10/2020
 * Various bug fixes and improvements
 
