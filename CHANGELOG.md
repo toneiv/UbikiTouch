@@ -1,4 +1,8 @@
 # Changelog
+## 1.7.15 (33873) - 05/11/2020
+* New: improvement in custom actions management screen
+* Various bug fixes and improvements
+
 ## 1.7.14 (33312) - 27/10/2020
 * New: option to add a delay before executing a custom action (see Custom Action / Edit / Waiting time before executing action)
 * New: option to hide "UbikiTouch is displaying over other apps" persistent notification (see Misc settings)
