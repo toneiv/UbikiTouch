@@ -1,4 +1,9 @@
 # Changelog
+## 1.7.16 (34101) - 10/11/2020
+* New: option to choose animation on tracker click
+* Fixed: screenshots taken with the application could sometimes include the UbikiTouch menu
+* Various bug fixes and improvements
+
 ## 1.7.15 (33873) - 05/11/2020
 * New: improvement in custom actions management screen
 * Various bug fixes and improvements
