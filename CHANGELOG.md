@@ -1,4 +1,10 @@
 # Changelog
+## 1.8.0 (36108) - 19/11/2020
+* New: option to remove the cursor by flinging it on any side of the screen (see Cursor options)
+* New: navigation drawer
+* Enhancement of interface lisibility
+* Various bug fixes and improvements
+
 ## 1.7.16 (34101) - 10/11/2020
 * New: option to choose animation on tracker click
 * Fixed: screenshots taken with the application could sometimes include the UbikiTouch menu
