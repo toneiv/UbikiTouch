@@ -1,4 +1,8 @@
 # Changelog
+## 1.8.1 (36480) - 20/11/2020
+* Fixed : bug in the record process of swipe<br>
+* Various bug fixes and improvements
+
 ## 1.8.0 (36108) - 19/11/2020
 * New: option to remove the cursor by flinging it on any side of the screen (see Cursor options)
 * New: navigation drawer
