@@ -1,4 +1,9 @@
 # Changelog
+## 1.9.0 (39432) - 02/12/2020
+* Fixed: UbikiTouch menu is available again in settings screen in Android 10
+* Overall efficiency and fluidity improvement
+* Various bug fixes and improvements
+
 ## 1.8.1 (36480) - 20/11/2020
 * Fixed : bug in the record process of swipe<br>
 * Various bug fixes and improvements
