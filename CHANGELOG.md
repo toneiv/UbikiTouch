@@ -1,4 +1,7 @@
 # Changelog
+## 1.9.2 (39621) - 05/12/2020
+* Fixed: crash in tuto screen for 4.4. android version
+
 ## 1.9.1 (39603) - 04/12/2020
 * Various bug fixes and improvements
 
