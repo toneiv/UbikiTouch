@@ -1,4 +1,9 @@
 # Changelog
+## 1.9.3 (40302) - 09/12/2020
+* New: cursor can be set to have no delay and thus remain on the screen until it is manually removed
+* New: experimental semi-automatic method for granting \"Write Secure Settings\" permission via ADB using the WebADB API. See https://ubikitouch.toneiv.eu/adb in your browser.
+* Improvement of the explanation tutorial to activate ADB
+
 ## 1.9.2 (39621) - 05/12/2020
 * Fixed: crash in tuto screen for 4.4. android version
 
