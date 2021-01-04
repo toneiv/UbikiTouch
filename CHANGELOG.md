@@ -1,4 +1,12 @@
 # Changelog
+## 1.9.4 (44946) - 02/01/2021
+* New : sound feedback can be added for click and/or long click on the menus (see Misc settings)
+* New : triggers can be set to remain in portrait mode position (see Misc settings)
+* New : triggers can be set to appear only in portrait or lanscape mode (see Misc settings)
+* Improvement in custom actions recording process
+* Improvement of pie ui fluidity
+* Various bug fixes and improvements
+
 ## 1.9.3 (40302) - 09/12/2020
 * New: cursor can be set to have no delay and thus remain on the screen until it is manually removed
 * New: experimental semi-automatic method for granting \"Write Secure Settings\" permission via ADB using the WebADB API. See https://ubikitouch.toneiv.eu/adb in your browser.
