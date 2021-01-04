@@ -1,5 +1,5 @@
 # Changelog
-## 1.9.4 (44946) - 02/01/2021
+## <a href="https://github.com/toneiv/AutoCursor/milestone/35">1.9.4 (44946)</a> - 02/01/2021
 * New : sound feedback can be added for click and/or long click on the menus (see Misc settings)
 * New : triggers can be set to remain in portrait mode position (see Misc settings)
 * New : triggers can be set to appear only in portrait or lanscape mode (see Misc settings)
