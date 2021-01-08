@@ -1,4 +1,11 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/36">1.9.5 (45288)</a> - 08/01/2021
+* New:  possibility to choose action on cursor long click (none, long click, click, remove cursor)
+* New:  possibility to choose action on cursor long click and drag (none, drag)
+* New:  possibility to choose color for the cursor
+* New : accessibility service for custom actions is no longer started automatically
+* Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/35">1.9.4 (44946)</a> - 02/01/2021
 * New : sound feedback can be added for click and/or long click on the menus (see Misc settings)
 * New : triggers can be set to remain in portrait mode position (see Misc settings)
