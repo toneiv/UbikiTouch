@@ -1,4 +1,17 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/37">1.10.1 (51102)</a> - 17/02/2021
+* New: possibility to add several independent triggers
+* New: possibility to assign click and/or long click action on triggers
+* New: new cursor menu available
+* New: simplified interface for positioning triggers
+* New: possibility to choose delay for long click activation on the cursor
+* New: Hungarian translation thanks to István Kriskó
+* Memory footprint improvements
+* Performance improvements
+* Various bug fixes and improvements
+* Improvement in click, long click and drag detection with cursor
+* Fixed: missing translations available again
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/36">1.9.5 (45288)</a> - 08/01/2021
 * New:  possibility to choose action on cursor long click (none, long click, click, remove cursor)
 * New:  possibility to choose action on cursor long click and drag (none, drag)
