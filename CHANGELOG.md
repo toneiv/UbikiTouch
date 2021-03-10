@@ -1,4 +1,11 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/38">1.10.2 (54246)</a> - 10/03/2021
+• New: possibility to customize angle for each menu item (see Trigger / Menu actions)
+• New: possibility to add a glowing halo effect on menu and/or tracker
+• Improvement in movement detection on triggers
+• Fixed: paste function should now work on Samsung Android 11
+• Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/37">1.10.1 (51102)</a> - 17/02/2021
 * New: possibility to add several independent triggers
 * New: possibility to assign click and/or long click action on triggers
