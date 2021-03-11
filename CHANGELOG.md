@@ -1,6 +1,6 @@
 # Changelog
 ## 1.10.3 (54429) - 11/03/2021
-* Improvement in click & cursor drag fonctionnality
+* Improved "click & drag" functionality of the cursor
 * Various bug fixes and improvements
 
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/38">1.10.2 (54246)</a> - 10/03/2021
