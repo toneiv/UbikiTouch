@@ -21,7 +21,6 @@ If the issue already exists, add a +1 to show your interest. You can also click 
 If you don't have GitHub account and don't want to create one you can also send your feature requests and bug reports via [**email**](mailto:toneiv.apps@gmail.com).
 
 # Feedback
-* UbikiTouch Group on [**Telegram**](https://t.me/joinchat/InrYuhYDC-ZjVWnyAHPPrA)
 * [**XDA Thread**](https://forum.xda-developers.com/android/apps-games/app-ubikitouch-gestures-automation-app-t3930661)
 
 # Navigation bar troubleshoot
