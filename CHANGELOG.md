@@ -1,4 +1,8 @@
 # Changelog
+## 1.10.3 (54429) - 11/03/2021
+* Improvement in click & cursor drag fonctionnality
+* Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/38">1.10.2 (54246)</a> - 10/03/2021
 * New: possibility to customize angle for each menu item (see Trigger / Menu actions)
 * New: possibility to add a glowing halo effect on menu and/or tracker
