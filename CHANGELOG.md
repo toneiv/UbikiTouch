@@ -1,4 +1,8 @@
 # Changelog
+## 1.10.4 (55608) - 22/03/2021
+* New: possibility to add a feedback message to a custom text action (see Custom Action  / Action / Edit)
+* Various bug fixes and improvements
+
 ## 1.10.3 (54429) - 11/03/2021
 * Improved "click & drag" functionality of the cursor
 * Various bug fixes and improvements
