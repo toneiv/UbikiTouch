@@ -1,4 +1,9 @@
 # Changelog
+## 1.10.5 (55689) - 28/04/2021
+* Fixed: random crash when accessing custom actions screen
+* Fixed: compatibility issue with backup and restore on Android 11
+* Various bug fixes and improvements
+
 ## 1.10.4 (55608) - 22/03/2021
 * New: possibility to add a feedback message to a custom text action (see Custom Action  / Action / Edit)
 * Various bug fixes and improvements
