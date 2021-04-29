@@ -1,4 +1,7 @@
 # Changelog
+## 1.10.6 (55722) - 29/04/2021
+* Fixed: bug affecting icon color and transparency
+
 ## 1.10.5 (55689) - 28/04/2021
 * Fixed: random crash when accessing custom actions screen
 * Fixed: compatibility issue with backup and restore on Android 11
