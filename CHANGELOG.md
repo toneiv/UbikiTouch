@@ -1,4 +1,7 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/39">1.10.7 (55740)</a> - 01/07/2021
+* New: possibility to reduce the long click delay of the cursor to 250 ms
+
 ## 1.10.6 (55722) - 29/04/2021
 * Fixed: bug affecting icon color and transparency
 
