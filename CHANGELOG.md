@@ -1,4 +1,7 @@
 # Changelog
+## 1.10.9 (56217) - 16/10/2021
+* Update **Google Play Billing Library** to 4.0.0
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/40">1.10.8</a> (56007) - 11/10/2021
 * Update **Target API level 30 (Android 11)**
 * New: possibility to fix delay for the **Previous App Native** action (see **Choose Action** / **Actions** / **Previous App Native** then long click)
