@@ -1,4 +1,9 @@
 # Changelog
+## 1.10.10 (56994) - 16/10/2021
+* New: **Previous App** action can now be used instead of **Previous App Native** action
+* New: Added information to fix the bug affecting the tab group view in **Google Chrome**: this is an option available in **Chrome** when an application uses the accessibility service (see in **Google Chrome** **Settings** / **Accessibility** / Uncheck **Simplified view for open tabs**)
+* New: **Round corner on trigger** option : it is now possible to enable or disable this option. Disabling this option may address possible transparency issues on some devices. (see **Trigger** / **Trigger look**
+
 ## 1.10.9 (56217) - 16/10/2021
 * Update **Google Play Billing Library** to 4.0.0
 
