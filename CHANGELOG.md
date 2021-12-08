@@ -1,5 +1,11 @@
 # Changelog
-## 1.10.10 (56994) - 16/10/2021
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/40">1.11.0</a> (58092) - 08/12/2021
+* New: **Recent applications action** available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
+* New: vibration and sound can be set for trigger (see **Misc** / **Trigger sound and vibration**)
+* New: vibration and sound can be set for menu (see **Misc** / **Menu sound and vibration**)
+* New: vibration and sound can be set for cursor (see **Auto Cursor** / **Cursor sound and vibration**)
+
+## 1.10.10 (56994) - 25/11/2021
 * New: **Previous App** action can now be used instead of **Previous App Native** action
 * New: Added information to fix the bug affecting the tab group view in **Google Chrome**: this is an option available in **Chrome** when an application uses the accessibility service (see in **Google Chrome** **Settings** / **Accessibility** / Uncheck **Simplified view for open tabs**)
 * New: **Round corner on trigger** option : it is now possible to enable or disable this option. Disabling this option may address possible transparency issues on some devices. (see **Trigger** / **Trigger look**
