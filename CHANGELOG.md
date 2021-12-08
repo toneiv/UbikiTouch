@@ -1,5 +1,5 @@
 # Changelog
-## <a href="https://github.com/toneiv/UbikiTouch/milestone/40">1.11.0</a> (58092) - 08/12/2021
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/41">1.11.0</a> (58092) - 08/12/2021
 * New: **Recent applications action** available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
 * New: vibration and sound can be set for trigger (see **Misc** / **Trigger sound and vibration**)
 * New: vibration and sound can be set for menu (see **Misc** / **Menu sound and vibration**)
