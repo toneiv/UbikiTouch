@@ -1,4 +1,9 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/42">1.11.1</a> (58245) - 16/12/2021
+* New: **Recent applications menu** position : the position of the menu on the screen is now configurable (see **Recent Apps** / **Size and appearance**)
+* New: Action/application/shortcut selection screens are now filterable
+* Various bug fixes and improvements<br>
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/41">1.11.0</a> (58092) - 08/12/2021
 * New: **Recent applications action** available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
 * New: vibration and sound can be set for trigger (see **Misc** / **Trigger sound and vibration**)
