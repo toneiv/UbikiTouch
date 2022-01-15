@@ -1,4 +1,9 @@
 # Changelog
+## 1.11.2 (58329) - 15/01/2022
+* Fixed : ability to define launcher in blacklist list
+* Fixed : UbikiTouch now works on more system screens
+* New: Ability to specify the location of the cursor on the screen when using the "Show left/right cursor" shortcut (see https://ubikitouch.toneiv.eu/faq.html#intent02)
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/42">1.11.1</a> (58245) - 16/12/2021
 * New: **Recent applications menu** position : the position of the menu on the screen is now configurable (see **Recent Apps** / **Size and appearance**)
 * New: Action/application/shortcut selection screens are now filterable
