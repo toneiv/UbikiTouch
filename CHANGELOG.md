@@ -1,4 +1,7 @@
 # Changelog
+## 1.11.3 (58368) - 31/01/2022
+* Fixed: a shift when manipulating the cursor could appear on some devices
+
 ## 1.11.2 (58329) - 15/01/2022
 * Fixed : ability to define launcher in blacklist list
 * Fixed : UbikiTouch now works on more system screens
