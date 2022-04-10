@@ -1,4 +1,16 @@
 # Changelog
+# Changelog
+## 1.12.0 (59528) - 08/04/2022
+* New: auto click with pointer on first release after swipe (see **Auto Cursor** / **Behaviour** / **Auto click**)
+* New: auto click with pointer after each move (see **Auto Cursor** / **Behaviour** / **Auto click**)
+* New: possibility to adjust color of the tracker when auto click is on (See **Auto Cursor** / **Colors** / **Tracker auto-click color and transparency**)
+* New: menu available on the tracker with following actions : copy text, toggle auto-click, close (See **Auto Cursor** / **Behaviour** / **Action on long click**, **Action on double click**, **Action when clicking outside while pressing the tracker**)
+* New: **Copy text** action available through the tracker menu
+* New: improved performance of the recent applications menu
+* New: improved memory footprint of the application
+* Fixed: bad behaviour of the Toggle Auto-rotate action
+* Various bug fixes and improvements
+
 ## 1.11.5 (58472) - 10/03/2022
 * Fixed: improved compatibility with native Android navigation gestures
 * Various bug fixes and improvements
