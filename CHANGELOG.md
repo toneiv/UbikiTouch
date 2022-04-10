@@ -1,6 +1,6 @@
 # Changelog
 # Changelog
-## 1.12.0 (59528) - 08/04/2022
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/43">1.12.0</a> (59528) - 08/04/2022
 * New: auto click with pointer on first release after swipe (see **Auto Cursor** / **Behaviour** / **Auto click**)
 * New: auto click with pointer after each move (see **Auto Cursor** / **Behaviour** / **Auto click**)
 * New: possibility to adjust color of the tracker when auto click is on (See **Auto Cursor** / **Colors** / **Tracker auto-click color and transparency**)
