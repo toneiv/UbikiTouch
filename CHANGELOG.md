@@ -1,5 +1,7 @@
 # Changelog
-# Changelog
+## 1.12.1 (59540) - 25/04/2022
+* Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/43">1.12.0</a> (59528) - 08/04/2022
 * New: auto click with pointer on first release after swipe (see **Auto Cursor** / **Behaviour** / **Auto click**)
 * New: auto click with pointer after each move (see **Auto Cursor** / **Behaviour** / **Auto click**)
