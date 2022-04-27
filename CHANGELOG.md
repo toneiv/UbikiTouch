@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.2 (59611) - 27/04/2022
+* Performance improvements
+
 ## 1.12.1 (59540) - 25/04/2022
 * Various bug fixes and improvements
 
