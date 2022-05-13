@@ -1,4 +1,9 @@
 # Changelog
+## 1.12.3 (60371) - 11/05/2022
+* AutoCursor animations improvement
+* Removal of separate services for the menu and custom actions
+* Memory footprint and performance improvements
+
 ## 1.12.2 (59611) - 27/04/2022
 * Performance improvements
 
