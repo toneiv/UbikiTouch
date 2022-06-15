@@ -12,7 +12,7 @@ Here you can view existing feature requests and bug reports or contribute with y
 
 * [**View existing issues**](https://github.com/toneiv/UbikiTouch/issues)
 * [**Add new issue**](https://github.com/toneiv/UbikiTouch/issues/new)
-* [**Help translating**](http://toneiv.oneskyapp.com/collaboration) (If you wish to add a new language, please send a request by [**email**](mailto:toneiv.apps@gmail.com) or add a new issue)
+* [**Help translating**](mailto:toneiv.apps@gmail.com)
 * [**View changelog**](https://github.com/toneiv/UbikiTouch/blob/master/CHANGELOG.md)
 
 # General rules
