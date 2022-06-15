@@ -12,7 +12,6 @@ Here you can view existing feature requests and bug reports or contribute with y
 
 * [**View existing issues**](https://github.com/toneiv/UbikiTouch/issues)
 * [**Add new issue**](https://github.com/toneiv/UbikiTouch/issues/new)
-* [**Help translating**](mailto:toneiv.apps@gmail.com)
 * [**View changelog**](https://github.com/toneiv/UbikiTouch/blob/master/CHANGELOG.md)
 
 # General rules
