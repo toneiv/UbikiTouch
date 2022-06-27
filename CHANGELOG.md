@@ -1,4 +1,13 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/44">1.12.7</a> (61012) - 27/06/2022
+* New Action: **Toggle Flashlight** (Android Marshmallow and up)
+* New Action: **Scroll backward** and **Scroll forward** : can be used for example to scroll through a web page
+* Ability to set the shape of the trigger (rectangle, rectangle with round corners, line) (see **Trigger look**)
+* Ability to set the strength and colour of the halo for the sub-menu and the selected menu (see **Pie/Curve/Wave menu** / **Menu appearance**)
+* Ability to set the strength and colour of the halo for different state of the tracker (see **Auto Cursor** / **Color**)
+* Ability to use an intent to activate/deactivate the trigger of your choice (see **https://ubikitouch.toneiv.eu/faq** / **Intent/Tasker**)
+* Ability to export and import a zip containing preferences and actions (see **Misc** / **Backup & restore**)
+
 ## 1.12.6 (60524) - 30/05/2022
 * Various bug fixes and improvements
 
