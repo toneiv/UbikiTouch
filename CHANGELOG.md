@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.8 (61103) - 06/07/2022
+* Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/44">1.12.7</a> (61012) - 27/06/2022
 * New Action: **Toggle Flashlight** (Android Marshmallow and up)
 * New Action: **Scroll backward** and **Scroll forward** : can be used for example to scroll through a web page
