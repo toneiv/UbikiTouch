@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.10 (61273) - 01/07/2022
+* Fix bugs with keyboard behavior
+
 ## 1.12.9 (61120) - 11/07/2022
 * Vibration strength can now be adjusted up to 500ms
 * Various bug fixes and improvements
