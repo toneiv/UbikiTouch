@@ -1,4 +1,9 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/45">1.12.11</a> (61332) - 12/09/2022
+* Improvement of the paste function
+* Clarification in the presentation of custom actions
+* New Actions: **Temporarily disable triggers for 5, 10 or 30s**
+
 ## 1.12.10 (61278) - 01/07/2022
 * Fix bugs with keyboard behavior
 
