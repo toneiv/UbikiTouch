@@ -1,4 +1,7 @@
 # Changelog
+## 1.12.12 (61354) - 14/09/2022
+* Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/45">1.12.11</a> (61332) - 12/09/2022
 * Improvement of the paste function
 * Clarification in the presentation of custom actions
