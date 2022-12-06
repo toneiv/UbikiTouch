@@ -1,4 +1,12 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/46">1.12.13</a> (62322) - 06/12/2022
+* New Action: **Adjust Volume (System, Media, Notification, Ringtone or Alarm) with slider** (see **Media actions**)
+* New Action: **Adjust Brightness with slider** (see **Actions**)
+* Ability to set the thickness of a trigger to a minimum value of 5px
+* Ability to set the amplitude of bottom menu for curve or wave to a maximum value of 25% of the length of the screen
+* Improved management of trigger rotation
+* Various bug fixes and improvements
+
 ## 1.12.12 (61354) - 14/09/2022
 * Various bug fixes and improvements
 
