@@ -1,4 +1,15 @@
 # Changelog
+## 1.13.0 (64770) - 17/04/2023
+* New interface for adding and editing custom actions
+* It is now possible to record custom actions of type "curve"
+* Custom actions can now be represented by a cursor during their execution: this can be deactivated globally in **Custom action** / **Advanced settings** or individually for each action
+* Support for the potential conflict with the tracker when a drag action is executed with Auto Cursor
+* Redesign of animations
+* New Action: **Turn off screen**
+* Fixed bugs in the "Show left/right cursor" widget
+* Fixed bugs in the "Temporarily disable triggers" actions
+* Support for themed icons on Android 13
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/46">1.12.13</a> (62322) - 06/12/2022
 * New Action: **Adjust Volume (System, Media, Notification, Ringtone or Alarm) with slider** (see **Media actions**)
 * New Action: **Adjust Brightness with slider** (see **Actions**)
