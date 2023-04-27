@@ -1,4 +1,10 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/47">1.13.1</a> (65200) - 27/04/2023
+* Improved on-screen keyboard management<br>
+* Improved screen rotation management<br>
+* Improved display of available widgets<br>
+* Various bug fixes and improvements<br>
+
 ## 1.13.0 (64770) - 17/04/2023
 * New interface for adding and editing custom actions
 * It is now possible to record custom actions of type "curve"
