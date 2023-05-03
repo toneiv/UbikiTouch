@@ -1,4 +1,7 @@
 # Changelog
+## 1.13.2 (65300) - 03/05/2023
+* Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/47">1.13.1</a> (65200) - 27/04/2023
 * Improved on-screen keyboard management<br>
 * Improved screen rotation management<br>
