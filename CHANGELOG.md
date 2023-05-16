@@ -1,4 +1,9 @@
 # Changelog
+## 1.13.3 (65752) - 15/05/2023
+* New option:**Keep accessibility running** tries to restore the accessibility service if it is killed by the system (see **Required permission**)
+* Better support for rooted devices
+* Various bug fixes and improvements
+
 ## 1.13.2 (65300) - 03/05/2023
 * Various bug fixes and improvements
 
