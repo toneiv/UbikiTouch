@@ -1,4 +1,7 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/48">1.13.5</a> (65880) - 23/05/2023
+* Various bug fixes and improvements
+
 ## 1.13.4 (64780) - 17/05/2023
 * Improved management of triggers when the keyboard appears
 * The backup files now include the name of the application
