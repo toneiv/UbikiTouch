@@ -1,4 +1,8 @@
 # Changelog
+## 1.13.6 (65986) - 31/05/2023
+• Fixed a bug in importing from backup files
+• Various bug fixes and improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/48">1.13.5</a> (65880) - 23/05/2023
 * Various bug fixes and improvements
 
