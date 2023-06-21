@@ -1,4 +1,8 @@
 # Changelog
+## 1.13.7 (66204) - 21/06/2023
+* Improved cursor and tracker animations
+* Various bug fixes and improvements
+  
 ## 1.13.6 (65986) - 31/05/2023
 * Fixed a bug in importing from backup files
 * Various bug fixes and improvements
