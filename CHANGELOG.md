@@ -1,5 +1,5 @@
 # Changelog
-##  <a href="https://github.com/toneiv/UbikiTouch/milestone/49">1.13.9</a> (66298) - 22/06/2023
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/49">1.13.9</a> (66298) - 22/06/2023
 * Improved management of foldable Android devices
 
 ## 1.13.8 (66216) - 21/06/2023
