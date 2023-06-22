@@ -1,4 +1,10 @@
 # Changelog
+##  <a href="https://github.com/toneiv/UbikiTouch/milestone/49">1.13.9</a> (66298) - 22/06/2023
+* Improved management of foldable Android devices
+
+## 1.13.8 (66216) - 21/06/2023
+* Various bug fixes and improvements
+  
 ## 1.13.7 (66204) - 21/06/2023
 * Improved cursor and tracker animations
 * Various bug fixes and improvements
