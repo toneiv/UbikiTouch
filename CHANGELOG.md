@@ -1,4 +1,11 @@
 # Changelog
+## 1.13.10 (66403) - 24/10/2023
+* New Action: "Select all text" to select the entire text of the text area in focus
+* New Action: "Copy text" to copy the current selection to the clipboard
+* New Action: "Cut text" to cut the current selection to the clipboard
+* Fixed a bug in importing from backup files
+* Various bug fixes and improvements
+  
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/49">1.13.9</a> (66298) - 22/06/2023
 * Improved management of foldable Android devices
 
