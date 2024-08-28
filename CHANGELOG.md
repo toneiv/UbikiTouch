@@ -1,4 +1,8 @@
 # Changelog
+## 1.13.11 (66403) - 28/08/2024
+* Update target API
+* Various bug fixes and improvements
+
 ## 1.13.10 (66403) - 24/10/2023
 * New Action: "Select all text" to select the entire text of the text area in focus
 * New Action: "Copy text" to copy the current selection to the clipboard
