@@ -1,4 +1,15 @@
 # Changelog
+## 1.14.1 (66915) - 07/09/2024
+* Various bug fixes and improvements
+
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/50">1.14.0</a> (66907) - 06/09/2024
+* Possibility of defining up to 5 actions and 5 sub-actions per menu instead of 4 previously (Pro version)
+* New "Trigger only" menu to use trigger actions only (Pro version)
+* New option : double click for trigger action (see **Trigger actions**) (Pro version)
+* New option for revealing the trigger area in a colour of your choice when it is touched. This can be useful for triggering clicks and long clicks on the trigger area (see **Trigger actions**)
+* Shizuku support for granting Write Secure Permissions
+* In the free version, UbikiTouch can now be selected from the list of applications that can be launched from the menu
+
 ## 1.13.12 (66507) - 30/08/2024
 * Fix bugs with main Service on Android 34
   
