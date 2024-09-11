@@ -1,4 +1,7 @@
 # Changelog
+## 1.14.2 (66919) - 09/09/2024
+* Various bug fixes and improvements
+  
 ## 1.14.1 (66915) - 07/09/2024
 * Various bug fixes and improvements
 
