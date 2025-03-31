@@ -1,12 +1,14 @@
 # Changelog
 ## 1.15.0 (67795) - 31/03/2025
-* Possibility of adjusting color and transparency of the ring and dot part of the cursor<br>
-* Bluetooth toggle action removed for Android versions above 13<br>
-* Fix : Apparition of permanent cursor on screen when editing settings<br>
-* Alphabetical sorting of application shortcuts<br>
-* Minimum trigger height set at 5%<br>
-* Maximum trigger width set at 200px<br>
-* Various bug fixes and improvements<br>
+* Possibility of customising the icon for ‘Shortcut’ actions
+* Possibility of adjusting color and transparency of the ring and dot part of the cursor
+* Bluetooth toggle action removed for Android versions above 13
+* Fix : Pie menu angles not duplicated using the duplicate actions function
+* Fix : Apparition of permanent cursor on screen when editing settings
+* Alphabetical sorting of application shortcuts
+* Minimum trigger height set at 5%
+* Maximum trigger width set at 200px
+* Various bug fixes and improvements
 
 ## 1.14.2 (66919) - 09/09/2024
 * Various bug fixes and improvements
