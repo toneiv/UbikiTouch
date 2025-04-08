@@ -1,4 +1,7 @@
 # Changelog
+## 1.15.1 (67821) - 08/04/2025
+* Fix : Incorrect cursor colours with autoclick activated
+
 ## 1.15.0 (67795) - 31/03/2025
 * Possibility of customising the icon for ‘Shortcut’ actions
 * Possibility of adjusting color and transparency of the ring and dot part of the cursor
