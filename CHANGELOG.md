@@ -1,4 +1,7 @@
 # Changelog
+## 1.15.2 (67825) - 14/04/2025
+* Fix : Incorrect cursor colours with circle shape
+
 ## 1.15.1 (67821) - 08/04/2025
 * Fix : Incorrect cursor colours with autoclick activated
 
