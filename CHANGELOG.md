@@ -1,4 +1,7 @@
 # Changelog
+## 1.16.0 (68919) - 04/07/2025
+* Graphical refresh of the interface
+
 ## 1.15.2 (67825) - 14/04/2025
 * Fix : Incorrect cursor colours with circle shape
 
