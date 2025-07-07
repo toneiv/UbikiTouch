@@ -1,4 +1,7 @@
 # Changelog
+## 1.16.1 (68935) - 05/07/2025
+* Various bug fixes and improvements
+
 ## 1.16.0 (68919) - 04/07/2025
 * Graphical refresh of the interface
 
