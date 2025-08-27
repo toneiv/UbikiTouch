@@ -1,4 +1,9 @@
 # Changelog
+## 1.16.2 (69117) - 27/08/2025
+* Update target API
+• Fixed a bug in vibration management
+• Fixed a bug in the display of selected shortcuts for actions on menus or triggers
+
 ## 1.16.1 (68935) - 05/07/2025
 * Various bug fixes and improvements
 
