@@ -21,7 +21,3 @@ If you don't have GitHub account and don't want to create one you can also send 
 
 # Feedback
 * [**XDA Thread**](https://forum.xda-developers.com/android/apps-games/app-ubikitouch-gestures-automation-app-t3930661)
-
-# Navigation bar troubleshoot
-If you've uninstall UbikiTouch and that you have forgotten to restore the navigation bar before, you can always run this ADB command:
-adb shell wm overscan 0,0,0,0<br>
