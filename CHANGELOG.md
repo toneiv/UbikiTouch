@@ -1,5 +1,5 @@
 # Changelog
-## <a href="https://github.com/toneiv/UbikiTouch/milestone/51">1.16.2</a> (70827) - 23/03/2026
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/52">1.16.2</a> (70827) - 23/03/2026
 * Fixed a bug that prevented a custom action from being executed via a widget under certain conditions
 * Fixed a bug that prevented PIP from triggering when using the Home action
 * Fixed a bug that prevented the multimedia volume slider from functioning correctly under HyperOS
