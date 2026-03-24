@@ -1,9 +1,30 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/51">1.16.2</a> (70827) - 23/03/2026
+* Fixed a bug that prevented a custom action from being executed via a widget under certain conditions
+* Fixed a bug that prevented PIP from triggering when using the Home action
+* Fixed a bug that prevented the multimedia volume slider from functioning correctly under HyperOS
+* Improvement of the triggering function of secondary actions based on distance
+* Added the ability to select the system launcher in the blacklist
+* Fixed a bug that prevented the shortcut actions icon from being updated
+* Fixed a bug that incorrectly triggered the long click action of the trigger for a trigger-only menu
+* Improved implementation of shortcuts to WhatsApp calls or conversations
+* Extended sensitivity area on the audio and brightness slider
+* Change the behaviour of clicking outside the audio and brightness slider to close it so that it does not interact with the application underneath
+* Removal of tiles that are not compatible with the current device version
+* Improved root rights management
+* Better handling of optional rights requests when an action attempts to use a missing permission
+* Revocation of permission "Block physical buttons"
+* Various bug fixes and improvements
+
+## 1.16.3 (69193) - 15/10/2025
+* New option : sound on/vibrate (see <b>Toggle actions</b>)
+* Fixed a bug preventing Shizuku from being handled correctly
+
 ## 1.16.2 (69117) - 27/08/2025
 * Update target API
-• Fixed a bug in vibration management
-• Fixed a bug in the display of selected shortcuts for actions on menus or triggers
-
+* Fixed a bug in vibration management
+* Fixed a bug in the display of selected shortcuts for actions on menus or triggers
+* 
 ## 1.16.1 (68935) - 05/07/2025
 * Various bug fixes and improvements
 
@@ -86,10 +107,10 @@
 * Various bug fixes and improvements
 
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/47">1.13.1</a> (65200) - 27/04/2023
-* Improved on-screen keyboard management<br>
-* Improved screen rotation management<br>
-* Improved display of available widgets<br>
-* Various bug fixes and improvements<br>
+* Improved on-screen keyboard management
+* Improved screen rotation management
+* Improved display of available widgets
+* Various bug fixes and improvements
 
 ## 1.13.0 (64770) - 17/04/2023
 * New interface for adding and editing custom actions
@@ -190,7 +211,7 @@
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/42">1.11.1</a> (58245) - 16/12/2021
 * New: **Recent applications menu** position : the position of the menu on the screen is now configurable (see **Recent Apps** / **Size and appearance**)
 * New: Action/application/shortcut selection screens are now filterable
-* Various bug fixes and improvements<br>
+* Various bug fixes and improvements
 
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/41">1.11.0</a> (58092) - 08/12/2021
 * New: **Recent applications action** available: including the ability to set sound and vibration on click and long click, the ability to set a blacklist (application not to be displayed in the recent menu) as well as the ability to customise columns, rows and icon size
@@ -285,7 +306,7 @@
 * Various bug fixes and improvements
 
 ## 1.8.1 (36480) - 20/11/2020
-* Fixed : bug in the record process of swipe<br>
+* Fixed : bug in the record process of swipe
 * Various bug fixes and improvements
 
 ## 1.8.0 (36108) - 19/11/2020
