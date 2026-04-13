@@ -1,4 +1,13 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/53">1.16.5</a> (72207) - 13/04/2026
+* New Action: **Previous app** (root required)
+* New Action: **Recent apps** (root required)
+* New Action: **Kill current app** (root required)
+* New Action: **Remove current app from recent apps** (root required)
+* New Action: **Remove all apps from recent apps** (root required)
+* Fix : some custom icons were displayed incorrectly
+* Fix : restoring preferences from a backup file could fail in certain circumstances
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/52">1.16.4</a> (70827) - 23/03/2026
 * Fixed a bug that prevented a custom action from being executed via a widget under certain conditions
 * Fixed a bug that prevented PIP from triggering when using the Home action
