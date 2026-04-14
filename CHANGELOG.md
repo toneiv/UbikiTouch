@@ -1,4 +1,7 @@
 # Changelog
+## 1.16.6 (72239 ) - 14/04/2025
+* Fix : bug in recent apps
+  
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/53">1.16.5</a> (72207) - 13/04/2026
 * New Action: **Previous app** (root required)
 * New Action: **Recent apps** (root required)
