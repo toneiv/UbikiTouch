@@ -1,5 +1,10 @@
 # Changelog
-## 1.16.6 (72239 ) - 14/04/2025
+## 1.16.7 (72361) - 15/04/2025
+* New option : tracker fling effect (see **Auto Cursor / Behaviour**)
+* New traduction : Japanese
+* Fix : improvements to the management of recent applications (classic version and root version)
+
+## 1.16.6 (72239) - 14/04/2025
 * Fix : bug in recent apps
   
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/53">1.16.5</a> (72207) - 13/04/2026
