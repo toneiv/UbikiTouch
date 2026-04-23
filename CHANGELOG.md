@@ -1,4 +1,7 @@
 # Changelog
+## 1.16.9 (72777) - 23/04/2025
+* Fix : improved vibration support for recent versions of Android
+  
 ## 1.16.8 (72485) - 21/04/2025
 * Fix : improved vibration support for recent versions of Android
   
