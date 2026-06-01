@@ -1,4 +1,12 @@
 # Changelog
+## 1.16.11 (73167) - 01/06/2025
+• New Action: **Previous app** (Shizuku required)
+• New Action: **Recent apps** (Shizuku required)
+• New Action: **Kill current app** (Shizuku required)
+• New Action: **Remove current app from recent apps** (Shizuku required)
+• New Action: **Remove all apps from recent apps** (Shizuku required)
+• Fix : In-app purchases were unavailable on certain versions of Android
+
 ## 1.16.10 (72849) - 25/04/2025
 • Fix : unexpected crash in Android 6
 
