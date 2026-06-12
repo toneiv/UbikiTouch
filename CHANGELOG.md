@@ -1,5 +1,11 @@
 # Changelog
-## 1.16.11 (73167) - 01/06/2025
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/54">1.16.13</a> (73441) - 12/06/2026
+* Fix: Shizuku actions were not working properly on specific versions of Android
+
+## 1.16.12 (73339) - 09/06/2026
+* Various bug fixes and improvements
+
+## 1.16.11 (73167) - 01/06/2026
 * New Action: **Previous app** (Shizuku required)
 * New Action: **Recent apps** (Shizuku required)
 * New Action: **Kill current app** (Shizuku required)
@@ -7,21 +13,21 @@
 * New Action: **Remove all apps from recent apps** (Shizuku required)
 * Fix : In-app purchases were unavailable on certain versions of Android
 
-## 1.16.10 (72849) - 25/04/2025
+## 1.16.10 (72849) - 25/04/2026
 * Fix : unexpected crash in Android 6
 
-## 1.16.9 (72777) - 23/04/2025
+## 1.16.9 (72777) - 23/04/2026
 * Fix : improved vibration support for recent versions of Android
   
-## 1.16.8 (72485) - 21/04/2025
+## 1.16.8 (72485) - 21/04/2026
 * Fix : improved vibration support for recent versions of Android
   
-## 1.16.7 (72361) - 15/04/2025
+## 1.16.7 (72361) - 15/04/2026
 * New option : tracker fling effect (see **Auto Cursor / Behaviour**)
 * New traduction : Japanese
 * Fix : improvements to the management of recent applications (classic version and root version)
 
-## 1.16.6 (72239) - 14/04/2025
+## 1.16.6 (72239) - 14/04/2026
 * Fix : bug in recent apps
   
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/53">1.16.5</a> (72207) - 13/04/2026
