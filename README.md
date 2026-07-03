@@ -18,6 +18,3 @@ Here you can view existing feature requests and bug reports or contribute with y
 Search through the [**existing issues**](https://github.com/toneiv/UbikiTouch/issues) to avoid creating duplicates.
 If the issue already exists, add a +1 to show your interest. You can also click on the Subscribe button to get notifications via e-mail.
 If you don't have GitHub account and don't want to create one you can also send your feature requests and bug reports via [**email**](mailto:toneiv.apps@gmail.com).
-
-# Feedback
-* [**XDA Thread**](https://forum.xda-developers.com/android/apps-games/app-ubikitouch-gestures-automation-app-t3930661)
