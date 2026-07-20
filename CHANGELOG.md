@@ -1,4 +1,17 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/55">1.17.1</a> (77093) - 20/07/2026
+* New design of the sliders and possibility to choose orientation (see **Volume and brightness sliders**)
+* New option : display the app that has focus in the list of recent apps (see **Recent Apps**)
+* Fixed: the toggle tile was not available on some systems
+* Fixed: the blacklist was not working properly with certain applications
+* Fixed: incorrect display of the tutorial screen
+* Memory footprint and performance improvements
+
+## 1.17.0 (75899) - 03/07/2026
+* New option : display the app that has focus in the list of recent apps (see **Recent Apps**)
+* Fixed: the toggle tile was not available on some systems
+* Memory footprint and performance improvements
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/54">1.16.13</a> (73441) - 12/06/2026
 * Fix: Shizuku actions were not working properly on specific versions of Android
 
