@@ -1,4 +1,7 @@
 # Changelog
+## 1.17.2 (77151) - 21/07/2026
+* Various bug fixes and improvements
+  
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/55">1.17.1</a> (77093) - 20/07/2026
 * New design of the sliders and possibility to choose orientation (see **Volume and brightness sliders**)
 * New option : display the app that has focus in the list of recent apps (see **Recent Apps**)
