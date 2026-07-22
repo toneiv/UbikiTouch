@@ -2,7 +2,7 @@
 ## 1.17.4 (77307) - 21/07/2026
 * Various bug fixes and improvements
 
-## 1.17.3 (77287) - 21/07/2026
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/56">1.17.3</a> (77287) - 21/07/2026
 * New option : define slider background color and transparency (see **Volume and brightness sliders**)
   
 ## 1.17.2 (77151) - 21/07/2026
