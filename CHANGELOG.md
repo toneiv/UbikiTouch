@@ -1,4 +1,13 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/57">1.17.6</a> (77443) - 27/07/2026
+* New option : display the current slider value (see **Volume and brightness sliders**)
+* New option : define slider background color and transparency (see **Volume and brightness sliders**)
+* New option : hide/show auto brightness button (see **Volume and brightness sliders**)
+* New option : choose position of auto brightness button (see **Volume and brightness sliders**)
+* New option : hide/show volume type selection button (see **Volume and brightness sliders**)
+* New option : choose position of volume type selection button (see **Volume and brightness sliders**)
+* Fixed: changing the default colors for the volume and brightness slider
+
 ## 1.17.5 (77379) - 23/07/2026
 * Various bug fixes and improvements
   
@@ -82,7 +91,7 @@
 * Various bug fixes and improvements
 
 ## 1.16.3 (69193) - 15/10/2025
-* New option : sound on/vibrate (see <b>Toggle actions</b>)
+* New option : sound on/vibrate (see **Toggle actions**)
 * Fixed a bug preventing Shizuku from being handled correctly
 
 ## 1.16.2 (69117) - 27/08/2025
