@@ -1,4 +1,12 @@
 # Changelog
+## 1.17.7 (78009) - 31/07/2026
+* New options : define the ‘single-click’, ‘long-click’ and ‘double-click’ actions for the list of recent apps
+* New options for Shizuku and Root in recent apps : force stop, force stop and remove from recents, force stop and restart
+* New option in recent apps : show information screen
+* New option : button to restore the default colour in the colour palettes
+* Fixed : under certain circumstances, the screen might stop responding when using the volume or brightness slider
+* Update target API
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/57">1.17.6</a> (77443) - 27/07/2026
 * New option : display the current slider value (see **Volume and brightness sliders**)
 * New option : define slider background color and transparency (see **Volume and brightness sliders**)
