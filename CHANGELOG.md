@@ -1,4 +1,10 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/58">1.17.8</a> (78135) - 12/08/2026
+* New option : disable or enable the triggers when the notifications pane is open (see **Misc**)
+* Fixed a bug that prevented the multimedia volume slider from functioning correctly under HyperOS
+* Fixed a bug affecting the use of the "Show cursor left/right" shortcuts
+* Improved detection of clicks, long clicks, double clicks on triggers
+  
 ## 1.17.7 (78009) - 31/07/2026
 * New options : define the ‘single-click’, ‘long-click’ and ‘double-click’ actions for the list of recent apps
 * New options for Shizuku and Root in recent apps : force stop, force stop and remove from recents, force stop and restart
