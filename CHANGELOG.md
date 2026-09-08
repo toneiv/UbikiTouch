@@ -1,4 +1,8 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/59">1.17.9</a> (78135) - 07/09/2026
+* Improvements to the management of the Root service
+* New languages: Turkish, Vietnamese
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/58">1.17.8</a> (78135) - 12/08/2026
 * New option : disable or enable the triggers when the notifications pane is open (see **Misc**)
 * Fixed a bug that prevented the multimedia volume slider from functioning correctly under HyperOS
