@@ -1,4 +1,9 @@
 # Changelog
+## 1.17.10 (79115) - 24/09/2026
+* Improved synchronisation between the brightness slider and the system brightness slider
+* New option to fine-tune the synchronisation settings between the brightness slider and the system slider (see Volume and brightness sliders)
+* Fixed a bug affecting the long-press action on the trigger
+  
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/59">1.17.9</a> (78135) - 07/09/2026
 * Improvements to the management of the Root service
 * New languages: Turkish, Vietnamese
