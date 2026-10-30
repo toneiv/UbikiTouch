@@ -1,4 +1,25 @@
 # Changelog
+**1.17.12 - 27/10/2026 (82417)**
+• New Action: **Temporarily disable triggers for Xms** (long click to modify the delay)
+• New Actions: **Move the cursor to the beginning** and **Move the cursor to the end**
+• New Option: ability to set the minimum duration for a long press on triggers up to 70 ms
+• New Option: ability to add shortcuts to launcher from ‘Misc’
+• New Shortcuts: enable/disable triggers left/right/bottom
+• Added an option to enable/disable Shizuku Actions - see ‘Required permission’
+• Shizuku can now be used in place of the Root or Write Secure Settings permission for all relevant actions
+• Improved handling of the user on/off switch to enable/disable the service 
+• Improvements to Backup and Restore Management
+• Improvements in calibration wizard
+
+** <a href="https://github.com/toneiv/UbikiTouch/milestone/60">1.17.11</a> - 06/10/2026**
+• Added an option to set a time limit for the ‘Screenshot’ action – see ‘Actions/Screenshot’ (long press)
+• Bug fixes: root gestures would freeze and become unresponsive after a certain amount of time
+• Bug fixes: shortcuts were not always executed correctly
+• Bug fixes: activities were not always executed correctly when using recent or previous apps
+• Bug fixes: unnecessary ‘Google Play unavailable’ notification
+• Bug fixes: some default custom actions (per-app or general) were not being executed
+• Improved performance and reliability
+
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/60">1.17.10</a> (79115) - 24/09/2026
 * Improved synchronisation between the brightness slider and the system brightness slider
 * New option to fine-tune the synchronisation settings between the brightness slider and the system slider (see Volume and brightness sliders)
