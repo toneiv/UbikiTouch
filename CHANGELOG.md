@@ -1,4 +1,7 @@
 # Changelog
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/62">1.17.13</a> (82847) - 02/11/2026
+* Bug fixes: changes made to the way intent triggers are managed had broken the previous approach
+  
 ## 1.17.12 (82417)- 27/10/2026 
 * New Action: **Temporarily disable triggers for Xms** (long click to modify the delay)
 * New Actions: **Move the cursor to the beginning** and **Move the cursor to the end**
@@ -11,7 +14,7 @@
 * Improvements to Backup and Restore Management
 * Improvements in calibration wizard
 
-## <a href="https://github.com/toneiv/UbikiTouch/milestone/60">1.17.11</a> - 06/10/2026
+## <a href="https://github.com/toneiv/UbikiTouch/milestone/61">1.17.11</a> - 06/10/2026
 * Added an option to set a time limit for the ‘Screenshot’ action – see ‘Actions/Screenshot’ (long press)
 * Bug fixes: root gestures would freeze and become unresponsive after a certain amount of time
 * Bug fixes: shortcuts were not always executed correctly
