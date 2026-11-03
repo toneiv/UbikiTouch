@@ -1,4 +1,7 @@
 # Changelog
+## 1.17.14 (82879) - 03/11/2026
+* Bug fixes: under certain conditions and on certain devices, the user interface was not reactivated correctly when the screen was turned on
+  
 ## <a href="https://github.com/toneiv/UbikiTouch/milestone/62">1.17.13</a> (82847) - 02/11/2026
 * Bug fixes: changes made to the way intent triggers are managed had broken the previous approach
   
