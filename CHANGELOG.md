@@ -1,4 +1,9 @@
 # Changelog
+## 1.18.0 (83377) - 17/11/2026
+* New Option: **Exponential cursor movement** - modulation of the cursor's acceleration based on the tracker's acceleration (see **Auto Cursor** / **Behaviour**)
+* Improved smoothness and responsiveness of the swipe menus (pie, curve and wave) and of the tracker and cursor : lighter rendering, a more fluid cursor trail and continuous spring animations
+* Various bug fixes and improvements
+
 ## 1.17.14 (82879) - 03/11/2026
 * Bug fixes: under certain conditions and on certain devices, the user interface was not reactivated correctly when the screen was turned on
   
